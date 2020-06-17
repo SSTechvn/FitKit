@@ -1,7 +1,8 @@
 ## 1.1.2
 
-* Fixed crash when error occurs on iOS.
-* Update example's Dart SDK constraints.
+* Fixed Android ConcurrentModificationException.
+* Fixed iOS error deserialization.
+* Unsupported types are now thrown as UnsupportedException.
 
 ## 1.1.1
 
